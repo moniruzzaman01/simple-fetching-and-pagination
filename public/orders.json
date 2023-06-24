@@ -1,0 +1,142 @@
+[
+  {
+    "price": "$49.99",
+    "payment_time": "June 24, 2023",
+    "payment_method": "Visa",
+    "user_email": "dummyemail1@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$39.99",
+    "payment_time": "June 23, 2023",
+    "payment_method": "MasterCard",
+    "user_email": "dummyemail2@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$59.99",
+    "payment_time": "June 22, 2023",
+    "payment_method": "PayPal",
+    "user_email": "dummyemail3@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$44.99",
+    "payment_time": "June 21, 2023",
+    "payment_method": "American Express",
+    "user_email": "dummyemail4@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$54.99",
+    "payment_time": "June 20, 2023",
+    "payment_method": "Visa",
+    "user_email": "dummyemail5@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$49.99",
+    "payment_time": "June 19, 2023",
+    "payment_method": "MasterCard",
+    "user_email": "dummyemail6@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$59.99",
+    "payment_time": "June 18, 2023",
+    "payment_method": "PayPal",
+    "user_email": "dummyemail7@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$39.99",
+    "payment_time": "June 17, 2023",
+    "payment_method": "American Express",
+    "user_email": "dummyemail8@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$44.99",
+    "payment_time": "June 16, 2023",
+    "payment_method": "Visa",
+    "user_email": "dummyemail9@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$54.99",
+    "payment_time": "June 15, 2023",
+    "payment_method": "MasterCard",
+    "user_email": "dummyemail10@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$49.99",
+    "payment_time": "June 14, 2023",
+    "payment_method": "PayPal",
+    "user_email": "dummyemail11@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$39.99",
+    "payment_time": "June 13, 2023",
+    "payment_method": "American Express",
+    "user_email": "dummyemail12@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$44.99",
+    "payment_time": "June 12, 2023",
+    "payment_method": "Visa",
+    "user_email": "dummyemail13@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$54.99",
+    "payment_time": "June 11, 2023",
+    "payment_method": "MasterCard",
+    "user_email": "dummyemail14@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$49.99",
+    "payment_time": "June 10, 2023",
+    "payment_method": "PayPal",
+    "user_email": "dummyemail15@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$59.99",
+    "payment_time": "June 9, 2023",
+    "payment_method": "American Express",
+    "user_email": "dummyemail16@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$39.99",
+    "payment_time": "June 8, 2023",
+    "payment_method": "Visa",
+    "user_email": "dummyemail17@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$44.99",
+    "payment_time": "June 7, 2023",
+    "payment_method": "MasterCard",
+    "user_email": "dummyemail18@example.com",
+    "delivery_method": "Express"
+  },
+  {
+    "price": "$54.99",
+    "payment_time": "June 6, 2023",
+    "payment_method": "PayPal",
+    "user_email": "dummyemail19@example.com",
+    "delivery_method": "Regular"
+  },
+  {
+    "price": "$49.99",
+    "payment_time": "June 5, 2023",
+    "payment_method": "American Express",
+    "user_email": "dummyemail20@example.com",
+    "delivery_method": "Express"
+  }
+]
