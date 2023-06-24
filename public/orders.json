@@ -271,12 +271,5 @@
     "payment_method": "PayPal",
     "user_email": "dummyemail19@example.com",
     "shipment": "Regular"
-  },
-  {
-    "price": "$49.99",
-    "payment_time": "June 5, 2023",
-    "payment_method": "American Express",
-    "user_email": "dummyemail20@example.com",
-    "shipment": "Express"
   }
 ]
