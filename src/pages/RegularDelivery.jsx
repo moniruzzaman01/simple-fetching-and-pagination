@@ -1,8 +1,11 @@
+import { useState } from "react";
 import Table from "../components/Table";
 import useLoadOrders from "../utils/useLoadOrders";
+import Pagination from "../components/Pagination";
 
 function RegularDelivery() {
   const orders = useLoadOrders();
+  const [pageNumber, setPageNumber] = useState(1);
 
   return (
     <div
@@ -12,7 +15,16 @@ function RegularDelivery() {
       <h1 className=" text-3xl text-slate-700 font-bold mt-10 mb-5">
         Regular Deliveries
       </h1>
-      <Table data={orders.filter((order) => order.shipment == "Regular")} />
+      <Table
+        data={orders
+          .filter((order) => order.shipment == "Regular")
+          .slice((pageNumber - 1) * 5, pageNumber * 5)}
+      />
+      <Pagination
+        pageNumber={pageNumber}
+        setPageNumber={setPageNumber}
+        pages={orders.filter((order) => order.shipment == "Regular").length / 5}
+      />
     </div>
   );
 }
