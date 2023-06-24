@@ -4,11 +4,10 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <>
+    <div className=" bg-green-50">
       <Navbar />
-      <h1 className=" text-4xl text-red-500">welcome</h1>
       <Outlet />
-    </>
+    </div>
   );
 }
 
